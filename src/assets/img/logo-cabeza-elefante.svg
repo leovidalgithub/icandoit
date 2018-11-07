@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1"
+	 id="svg6982" xmlns:svg="http://www.w3.org/2000/svg" inkscape:export-ydpi="399.98953" sodipodi:docbase="/home/benjami/work/mnm/meneame" sodipodi:docname="elmnm-enviaments-01.svg" inkscape:export-xdpi="399.98953" inkscape:export-filename="/home/benjami/work/meneame/candidat-01/mnm-01-400dpi.png" inkscape:version="0.43" sodipodi:version="0.32" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="595.275" height="841.89" viewBox="0 0 595.275 841.89"
+	 overflow="visible" enable-background="new 0 0 595.275 841.89" xml:space="preserve">
+<sodipodi:namedview  pagecolor="#ffffff" id="base" inkscape:window-height="545" inkscape:window-x="356" inkscape:window-y="226" inkscape:current-layer="layer1" inkscape:window-width="807" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:cx="375" inkscape:zoom="0.35" borderopacity="1.0" bordercolor="#666666" inkscape:cy="520">
+	</sodipodi:namedview>
+<g>
+	
+		<path id="path1493" inkscape:export-ydpi="3.8800001" inkscape:export-xdpi="3.8800001" inkscape:export-filename="/home/benjami/work/mnm/meneame/almeida-01.png" sodipodi:nodetypes="ccccccccc" fill="#FF6400" d="
+		M453.584,403.468c-30.651,30.941-81.039,31.896-108.599,66.771c-13.189,17.365-3.83,63.184-0.348,44.422
+		c1.358-8.75,2.9-21.99,16.557-36.783c18.85-21.346,47.216-29.672,71.333-43.326c27.922-14.473,53.476-42.064,52.329-75.336
+		c-1.012-17.502-6.994-35.01-17.443-49.086c-1.976,11.613,6.023,28.518,4.779,42.477
+		C472.938,371.074,468.329,391.101,453.584,403.468z"/>
+	
+		<path id="path1495" inkscape:export-ydpi="3.8800001" inkscape:export-xdpi="3.8800001" inkscape:export-filename="/home/benjami/work/mnm/meneame/almeida-01.png" sodipodi:nodetypes="ccccccccsccccc" fill="#FF6400" d="
+		M350.811,342.666c-43.006-22.184-90.788-35.619-140.811-23.922c-26.876,4.967-58.531,19.648-76.538,44.236
+		c-23.611,28.197-24.53,69.213-9.043,101.457c12.036,24.844,30.331,52.482,59.974,56.627c25.493,3.824,53.503,0.369,75.161-14.354
+		c-25.75,4.428-55.578,13.582-78.703-3.629c-38.754-24.787-57.601-81.037-34.071-122.096c18.9-35.799,56.974-45.883,97.257-47.654
+		c53.717-2.363,105.2,28.283,124.954,35.748c19.034,5.994,46.33,13.584,59.874-6.623c7.915-9.389,4.752-35.254-1.686-37.654
+		c1.86,18.121-11.429,40.912-32.113,34.969C379.613,356.123,365.4,348.712,350.811,342.666z"/>
+</g>
+</svg>
